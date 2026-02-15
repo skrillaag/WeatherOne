@@ -1,0 +1,12 @@
+{
+  "name": "weather-app-cli",
+  "version": "1.0.0",
+  "dependencies": [
+    "boost-beast",
+    "boost-asio",
+    "nlohmann-json",
+    "openssl",
+    "sqlite3"
+  ],
+  "overrides": []
+}

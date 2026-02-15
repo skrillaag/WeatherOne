@@ -1,0 +1,23 @@
+# Build artifacts
+build/
+CMakeCache.txt
+CMakeFiles/
+
+# vcpkg
+vcpkg_installed/
+
+# Node
+node_modules/
+
+# Databases
+*.db
+
+# OS / IDE
+.vscode/
+.idea/
+*.log
+
+# Windows
+*.exe
+*.pdb
+
