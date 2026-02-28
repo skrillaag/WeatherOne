@@ -123,6 +123,11 @@ WeatherAppCLI/
 
 ## Screenshots
 Screenshots can be found from the screenshots/ directory.
+<p align="center">
+  <img src="screenshots/Web_login.png" width="500">
+  <img src="screenshots/Web_query.png" width="500">
+</p>
+
 
 ## License
 This project is licensed under the MIT License.
