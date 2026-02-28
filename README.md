@@ -102,6 +102,10 @@ Open it.
 
 ## CLI Mode
 The backend can also be run as terminal application:
+From the Debug directory
+```powershell
+cd build\Debug
+```
 ```powershell
 .\WeatherApp.exe --cli
 ```
@@ -116,5 +120,9 @@ WeatherAppCLI/
 ├─ .gitignore
 └─ README.md
 ```
+
+## Screenshots
+Screenshots can be found from the screenshots/ directory.
+
 ## License
 This project is licensed under the MIT License.
